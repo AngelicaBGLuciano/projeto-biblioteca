@@ -40,8 +40,8 @@ O banco de dados foi modelado com as seguintes entidades e relacionamentos:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/projeto-biblioteca-sql-python.git](https://github.com/seu-usuario/projeto-biblioteca-sql-python.git)
-    cd projeto-biblioteca-sql-python
+    git clone [https://github.com/AngelicaBGLuciano/projeto-biblioteca.git]
+    cd projeto-biblioteca
     ```
 
 2.  **Navegue até a pasta da aplicação:**
