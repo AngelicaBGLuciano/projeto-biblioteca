@@ -16,7 +16,6 @@ INSERT INTO Usuarios (Nome, Email, DataCadastro) VALUES
 ('Carlos Dias', 'carlos.dias@email.com', '2024-05-10');
 
 -- Inserindo Livros
--- Note que o AutorID corresponde ao ID inserido na tabela Autores.
 INSERT INTO Livros (Titulo, AutorID, AnoPublicacao, Genero, QuantidadeDisponivel) VALUES
 ('1984', 1, 1949, 'Distopia', 3),
 ('A Revolução dos Bichos', 1, 1945, 'Sátira Política', 2),

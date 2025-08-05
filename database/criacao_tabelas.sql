@@ -2,7 +2,6 @@
 -- Descrição: Script para criar todas as tabelas do banco de dados da biblioteca.
 
 -- Remove as tabelas se elas já existirem, para garantir um início limpo.
--- Cuidado: Isso apaga todos os dados! Use apenas em ambiente de desenvolvimento.
 DROP TABLE IF EXISTS Emprestimos;
 DROP TABLE IF EXISTS Livros;
 DROP TABLE IF EXISTS Usuarios;
