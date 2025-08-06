@@ -14,7 +14,6 @@ O objetivo deste projeto é demonstrar habilidades fundamentais em design de ban
     * Scripts SQL para criação, inserção de dados e consultas complexas.
 * **Aplicação Python:**
     * Conexão com um banco de dados SQLite.
-    * Interface de linha de comando (CLI) para interagir com o sistema.
     * Funcionalidades para adicionar e listar livros no acervo.
 
 ## Estrutura do Banco de Dados
@@ -26,10 +25,6 @@ O banco de dados foi modelado com as seguintes entidades e relacionamentos:
 * **Usuarios**: Registra os usuários da biblioteca.
 * **Emprestimos**: Registra os empréstimos, conectando `Livros` e `Usuarios`.
 
-<!--
-![Diagrama do Banco de Dados](URL_PARA_UMA_IMAGEM_DO_SEU_DIAGRAMA)
-*(Opcional, mas altamente recomendado: crie um diagrama simples em uma ferramenta como dbdiagram.io ou draw.io, salve como imagem e adicione ao seu repositório para exibir aqui.)*
--->
 ## Tecnologias Utilizadas
 
 * **Linguagem de Banco de Dados:** SQL (SQLite)
